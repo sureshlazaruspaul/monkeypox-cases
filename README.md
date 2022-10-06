@@ -1,5 +1,7 @@
 # Monkeypox MPX 2022
 
+## Dataset discontinued September 2022
+
 Human monkeypox (MPX) is a zoonotic viral disease caused by the Monkeypox virus (MPXV). This app tracks daily world-wide confirmed MPX cases using R Shiny.
 
 ## Details
@@ -15,6 +17,6 @@ The web app shows three data points.
 ***
 
 # Links
-- App live at [shinyapps.io](https://sureshlp.shinyapps.io/Monkeypox-July2022/)
+- App live at [shinyapps.io](https://sureshlp.shinyapps.io/Monkeypox-Sep2022/)
 - Data source: [https://github.com/globaldothealth/monkeypox](https://github.com/globaldothealth/monkeypox)
-- [R code](https://raw.githubusercontent.com/sureshlazaruspaul/monkeypox-cases/main/monkeypox2022_v1.0.1.R)
+- [R code](https://raw.githubusercontent.com/sureshlazaruspaul/monkeypox-cases/main/monkeypox2022_v1.0.2.R)
